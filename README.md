@@ -2,8 +2,7 @@
 
 ## はじめに
 
-PWNオーバーフローを勉強し始めたのは実は[SECCON 2018 Online CTF](https://score-quals.seccon.jp/)の[Classic Pw
-n](https://score-quals.seccon.jp/challenges#Classic%20Pwn)を解きたかったから。
+PWNオーバーフローを勉強し始めたのは実は[SECCON 2018 Online CTF](https://score-quals.seccon.jp/)の[Classic Pwn](https://score-quals.seccon.jp/challenges#Classic%20Pwn)を解きたかったから。
 writeupを読んでもなんとなくにしか分からず、せっかくの機会だから勉強してみようかと。
 と思ったら思いのほか難しく．．．長かった．．．
 
