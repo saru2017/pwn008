@@ -1,4 +1,4 @@
-# PWNオーバーフロー入門: 64bit環境でのROPコード (SSP、ASLR、PIE無効で64bit ELF)
+# PWNオーバーフロー入門: 64bit環境でのROPコード (SSP、PIE無効で64bit ELF)
 
 ## はじめに
 
